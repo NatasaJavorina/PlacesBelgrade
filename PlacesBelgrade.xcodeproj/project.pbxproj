@@ -15,6 +15,7 @@
 		661B58BD2119AE690033512B /* UIImageView + AsyncDownload.swift in Sources */ = {isa = PBXBuildFile; fileRef = 661B58BC2119AE690033512B /* UIImageView + AsyncDownload.swift */; };
 		661B58C02119AFFA0033512B /* DataService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 661B58BF2119AFFA0033512B /* DataService.swift */; };
 		661B58C22119B01C0033512B /* CoreDataManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 661B58C12119B01B0033512B /* CoreDataManager.swift */; };
+		664910BC21888B3300A33EA2 /* comment in Resources */ = {isa = PBXBuildFile; fileRef = 664910BB21888B3300A33EA2 /* comment */; };
 		66793D092119DA27005C605A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 66793D082119DA27005C605A /* Main.storyboard */; };
 		66793D0B2119DAB1005C605A /* PlacesListTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66793D0A2119DAB1005C605A /* PlacesListTableViewController.swift */; };
 		66793D0D2119DAE7005C605A /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66793D0C2119DAE7005C605A /* MapViewController.swift */; };
@@ -34,6 +35,7 @@
 		661B58BC2119AE690033512B /* UIImageView + AsyncDownload.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIImageView + AsyncDownload.swift"; sourceTree = "<group>"; };
 		661B58BF2119AFFA0033512B /* DataService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataService.swift; sourceTree = "<group>"; };
 		661B58C12119B01B0033512B /* CoreDataManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreDataManager.swift; sourceTree = "<group>"; };
+		664910BB21888B3300A33EA2 /* comment */ = {isa = PBXFileReference; lastKnownFileType = text; path = comment; sourceTree = "<group>"; };
 		66793D082119DA27005C605A /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 		66793D0A2119DAB1005C605A /* PlacesListTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlacesListTableViewController.swift; sourceTree = "<group>"; };
 		66793D0C2119DAE7005C605A /* MapViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapViewController.swift; sourceTree = "<group>"; };
@@ -118,6 +120,7 @@
 				66793D0A2119DAB1005C605A /* PlacesListTableViewController.swift */,
 				66793D0C2119DAE7005C605A /* MapViewController.swift */,
 				66793D0E2119DB08005C605A /* PlaceViewController.swift */,
+				664910BB21888B3300A33EA2 /* comment */,
 			);
 			path = ViewControllers;
 			sourceTree = "<group>";
@@ -191,6 +194,7 @@
 			files = (
 				66793D092119DA27005C605A /* Main.storyboard in Resources */,
 				661B58B22119A9540033512B /* LaunchScreen.storyboard in Resources */,
+				664910BC21888B3300A33EA2 /* comment in Resources */,
 				661B58AF2119A9540033512B /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
